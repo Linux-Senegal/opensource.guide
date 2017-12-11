@@ -1,8 +1,8 @@
 ---
-langue: fr-FR
-titre: Comment contribuer en Open Source
+locale: fr-FR
+title: Comment contribuer en Open Source
 description: Vous voulez contribuer en open source? Un guide pour faire des contributions open source, pour les debutants et pour les plus experimentes.
-cours: contribuer
+class: contribuer
 toc:
   why-contribute-to-open-source: "Pourquoi contribuer en open source?"
   what-it-means-to-contribute: "Que veut dire contribuer?"
@@ -33,11 +33,11 @@ Pourquoi les gens contribuent ils en open source? Pour tas de raisons!
 
 ### Ameliorer les competences existantes
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Que ca soit le coding, la conception d'interface utilisateur, la conception graphique, l'écriture, ou l'organisation, si vous cherchez la pratique, il y a une tâche pour vous sur un projet open source.
 
 ### Rencontrer des personnes ayant des choses en commun avec vous
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+Les projets open source avec des communautés bouillantes, accueillantes poussent les gens a revenir pendant des années. Beaucoup de personnes forment des amitiés perpétuelles par leur participation dans le code source libre, si elles se rencontrent a l'occasion des conférences ou tard la nuit pendant des chats en ligne de burritos
 
 ### Trouver des mentors et enseigner d'autres
 
@@ -74,7 +74,7 @@ Vous ferez une large faveur au projet en y offrant des types de contributions di
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+Meme si vous aimez ecrire du code, d'autres types de contributions sont une bonne façon pour s'impliquer avec un projet et rencontrer d'autres membres communautaires. Nouer ces relations vous donnera des oppportunites de travailler sur dautres parties du projet.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -99,11 +99,11 @@ Even if you like to write code, other types of contributions are a great way to 
 
 ### Aimez-vous ecrire?
 
-* Write and improve the project's documentation
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list
-* Write tutorials for the project, [like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
-* Write a translation for the project's documentation
+* Ecrire et ameliorer la documentation du projet.
+* Preparer un dossier d'exemples montrant comment le projet est utilisé.
+* Commencer une newsletter(boite a lettres) pour le projet, ou traiter les mises en evidence (surligne) de la liste de diffusion.
+* Ecrire des tutoriaux du projet, [comme l'ont fait les contributeurs PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Ecrire une traduction de la documentation du projet
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
