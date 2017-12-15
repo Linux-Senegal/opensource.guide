@@ -2,7 +2,7 @@
 locale: fr-FR
 title: Démarrer un projet Open Source
 description: Apprenez plus sur le monde de l'open source et préparez-vous à lancer votre propre projet.
-class: beginners_fr
+class: debutants
 toc:
   le-quoi-et-le-pourquoi-de-lopen-source: "Le quoi et le pourquoi de l'open source"
   dois-je-lancer-mon-propre-projet-open-source: "Dois-je lancer mon propre projet open source?"
