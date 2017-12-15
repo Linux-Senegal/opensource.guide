@@ -1,6 +1,6 @@
 ---
-langue: fr-FR
-titre: Comment contribuer en Open Source
+locale: fr-FR
+title: Comment contribuer en Open Source
 description: Vous voulez contribuer en open source? Un guide pour faire des contributions open source, pour les debutants et pour les plus experimentes.
 class: contribute
 toc:
