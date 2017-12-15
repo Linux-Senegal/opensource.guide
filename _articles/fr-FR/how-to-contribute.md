@@ -13,7 +13,7 @@ toc:
 order: 1
 image: /assets/images/cards/contribute.png
 related:
-  - beginners
+  - beginners_fr
   - building
 ---
 
