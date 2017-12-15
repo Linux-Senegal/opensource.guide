@@ -138,7 +138,7 @@ Le travail légal n'est aucunement amusement. La bonne nouvelle est que vous pou
 
 Lorsque vous créez un nouveau projet sur GitHub, vous avez la possibilité de sélectionner une licence. L'inclusion d'une licence open source rendra votre projet GitHub open source.
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Choisissez une licence](/assets/images/starting-a-project/repository-license-picker.png)
 
 Si vous avez d'autres questions ou préoccupations concernant les aspects juridiques de la gestion d'un projet open source, [nous vous avons couvert le sujet ici](../legal/).
 
