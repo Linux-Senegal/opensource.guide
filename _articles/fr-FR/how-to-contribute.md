@@ -2,7 +2,7 @@
 locale: fr-FR
 title: Comment contribuer en Open Source
 description: Vous voulez contribuer en open source? Un guide pour faire des contributions open source, pour les debutants et pour les plus experimentes.
-class: contribute
+class: contribuer
 toc:
   why-contribute-to-open-source: "Pourquoi contribuer en open source?"
   what-it-means-to-contribute: "Que veut dire contribuer?"
@@ -14,7 +14,7 @@ order: 1
 image: /assets/images/cards/contribute.png
 related:
   - debutants
-  - building
+  - construire
 ---
 
 ## Pourquoi contribuer en open source?

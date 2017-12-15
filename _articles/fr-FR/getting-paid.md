@@ -2,7 +2,7 @@
 locale: fr-FR
 title: Getting Paid for Open Source Work
 description: Sustain your work in open source by getting financial support for your time or your project.
-class: getting-paid
+class: faire-payer
 toc:
   why-some-people-seek-financial-support: "Why some people seek financial support"
   funding-your-own-time: "Funding your own time"
@@ -11,8 +11,8 @@ toc:
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
-  - best-practices
-  - leadership
+  - meilleures-pratiques
+  - leadership-gouvernance
 ---
 
 ## Why some people seek financial support

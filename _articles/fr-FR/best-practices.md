@@ -1,8 +1,8 @@
 ---
-locale: fr-FR 
+locale: fr-FR
 title: Meilleures pratiques pour les mainteneurs
 description: Simplifiez-vous la vie en tant que mainteneur open source, de la documentation des processus à l'exploitation de votre communauté.
-class: best-practices
+class: meilleures-pratiques
 toc:
   que-signifie-être-un-mainteneur: "Que signifie être un mainteneur?"
   documenter-vos-processus: "Documenter vos processus"
@@ -14,7 +14,7 @@ order: 5
 image: /assets/images/cards/best-practices.png
 related:
   - metrics
-  - leadership
+  - leadership-gouvernance
 
 ---
 

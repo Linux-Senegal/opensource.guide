@@ -2,7 +2,7 @@
 locale: fr-FR
 title: Leadership et gouvernance
 description: Les projets open source en croissance peuvent bénéficier de règles formelles pour prendre des décisions.
-class: leadership
+class: leadership-gouvernance
 toc:
   quels-sont-les-exemples-de-roles-formels-utilises-dans-les-projets-open-source?: "Quels sont les exemples de rôles formels utilisés dans les projets open source?"
   comment-puis-je-formuler-ces-roles-de-leadership: "Comment puis-je formuler ces rôles de leadership?"
@@ -14,7 +14,7 @@ toc:
 order: 6
 image: /assets/images/cards/leadership.png
 related:
-  - best-practices
+  - meilleures-pratiques
   - metrics
 ---
 

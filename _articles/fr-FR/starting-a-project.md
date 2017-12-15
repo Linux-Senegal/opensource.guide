@@ -12,8 +12,8 @@ toc:
 order: 2
 image: /assets/images/cards/beginner.png
 related:
-  - finding
-  - building
+  - trouver
+  - construire
 ---
 
 ## Le "quoi" et le "pourquoi" de l'open source

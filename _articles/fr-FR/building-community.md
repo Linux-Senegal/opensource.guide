@@ -2,7 +2,7 @@
 locale: fr-FR
 title: Construire des communautés accueillantes
 description: Construire une communauté qui encourage les gens à utiliser, contribuer et évangéliser votre projet.
-class: building
+class: construire
 toc:
   mise-en-place-de-votre-projet-pour-le-succès: "Mise en place de votre projet pour le succès"
   développer-votre-communauté: "Développer votre communauté"
@@ -10,7 +10,7 @@ toc:
 order: 4
 image: /assets/images/cards/building.png
 related:
-  - best-practices
+  - meilleures-pratiques
   - coc
 ---
 
