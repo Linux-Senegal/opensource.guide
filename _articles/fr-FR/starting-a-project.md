@@ -109,49 +109,49 @@ Si vous avez besoin d'un budget ou d'un personnel dédié pour la promotion, les
 
 Si votre objectif est d'apprendre à collaborer avec les autres ou à comprendre comment fonctionne l'open source, envisagez de contribuer à un projet existant. Commencez avec un projet que vous utilisez déjà et aimez. Contribuer à un projet peut être aussi simple que la correction de coquilles, des fautes de frappe ou  la mise à jour de la documentation.
 
-Si vous n'êtes pas sûrs de savoir comment commencer en tant que contributeur, consultez [Comment contribuer au guide Open Source](../how-to-contribute/).
+Si vous n'êtes pas sûrs de savoir comment commencer en tant que contributeur, consultez [Comment contribuer à l'Open Source](../how-to-contribute/).
 
 ## Lancer votre propre projet open source
 
-There is no perfect time to open source your work. You can open source an idea, a work in progress, or after years of being closed source.
+Il n'y a pas de moment idéal pour ouvrir votre travail. Vous pouvez ouvrir une idée, un travail en cours, ou après des années une source fermée (close source).
 
-Generally speaking, you should open source your project when you feel comfortable having others view, and give feedback on, your work.
+En général, vous devriez ouvrir votre projet lorsque vous vous sentez à l'aise que d'autres voient et de donner leur avis sur votre travail.
 
-No matter which stage you decide to open source your project, every project should include the following documentation:
+Peu importe quelle étape vous décidez d'ouvrir votre projet, chaque projet devrait inclure la documentation suivante:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [Licence open source](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [Guide du contributeur](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Code de conduite](../code-of-conduct/)
 
-As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
+En tant que mainteneur, ces composants vous aideront à communiquer les attentes, à gérer les contributions et à protéger les droits légaux de chacun (y compris vous). Ils augmentent considérablement vos chances d'avoir une expérience positive.
 
-If your project is on GitHub, putting these files in your root directory with the recommended filenames will help GitHub recognize and automatically surface them to your readers.
+Si votre projet est sur GitHub, placer ces fichiers dans votre répertoire racine avec les noms de fichiers recommandés aidera GitHub à les reconnaître et à les faire apparaître automatiquement à vos lecteurs.
 
-### Choosing a license
+### Choisir une licence
 
-An open source license guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. **You must include a license when you launch an open source project.**
+Une licence open source garantit que d'autres peuvent utiliser, copier, modifier et contribuer à votre projet sans répercussions. Il vous protège aussi de situations légales gênantes. **Vous devez inclure une licence quand vous lancez un projet open source.**
 
-Legal work is no fun. The good news is that you can copy and paste an existing license into your repository. It will only take a minute to protect your hard work.
+Le travail légal n'est aucunement amusement. La bonne nouvelle est que vous pouvez copier et coller une licence existante dans votre dépôt.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are the most popular open source licenses, but [there are other options](https://choosealicense.com) to choose from.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), et [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sont les licences open source les plus populaires, mais [il y a d'autres options](https://choosealicense.com) que vous pouvez choisir.
 
-When you create a new project on GitHub, you are given the option to select a license. Including an open source license will make your GitHub project open source.
+Lorsque vous créez un nouveau projet sur GitHub, vous avez la possibilité de sélectionner une licence. L'inclusion d'une licence open source rendra votre projet GitHub open source.
 
 ![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
 
-If you have other questions or concerns around the legal aspects of managing an open source project, [we've got you covered](../legal/).
+Si vous avez d'autres questions ou préoccupations concernant les aspects juridiques de la gestion d'un projet open source, [nous vous avons couvert le sujet ici](../legal/).
 
-### Writing a README
+### Écriture d'un README
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+Le fichier README fait plus qu'expliquer comment utiliser votre projet. Ils expliquent également pourquoi votre projet est important et ce que vos utilisateurs peuvent en faire.
 
-In your README, try to answer the following questions:
+Dans votre README, essayez de répondre aux questions suivantes:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* Que fait ce projet?
+* Pourquoi ce projet est-il utile?
+* Comment puis-je commencer?
+* Où puis-je obtenir plus d'aide, si j'en ai besoin?
 
 You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
 
