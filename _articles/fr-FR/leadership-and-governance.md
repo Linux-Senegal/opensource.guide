@@ -1,5 +1,5 @@
 ---
-locale: fr-Fr
+locale: fr-FR
 title: Leadership et gouvernance
 description: Les projets open source en croissance peuvent bénéficier de règles formelles pour prendre des décisions.
 class: leadership
