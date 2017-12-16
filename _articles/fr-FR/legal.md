@@ -4,13 +4,13 @@ title: Le côté légal de l'Open Source
 description: Tout ce que vous avez déjà demandé sur le côté juridique de l'open source, et quelques choses que vous n'avez pas faites.
 class: légal
 toc:
-  pourquoi-les-gens-se-soucient-ils-tellement-du-cote-legal-de-lopen-source: "Pourquoi les gens se soucient-ils tellement du côté légal de l'open source?"
-  les-projets-publics-github-sont-ils-open-source: "Les projets publics GitHub sont-ils open source?"
-  donnez-moi-juste-la-TL-DR-sur-ce-dont-jai-besoin-pour-protéger-mon-projet: "Donnez-moi juste la TL DR sur ce dont j'ai besoin pour protéger mon projet"
-  quelle-licence-open-source-est-appropriee-pour-mon-projet: "Quelle licence open source est appropriée pour mon projet?"
+  pourquoi-les-gens-se-soucient-ils-tellement-du-côté-légal-de-lopen-source: "Pourquoi les gens se soucient ils tellement du côté légal de l'open source?"
+  les-projets-publics-github-sont-ils-open-source: "Les projets publics github sont-ils open source?"
+  donnez-moi-juste-la-TL-DR-sur-ce-dont-jai-besoin-pour-protéger-mon-projet: "Donnez moi juste la TL DR sur ce dont j'ai besoin pour protéger mon projet"
+  quelle-licence-open-source-est-appropriée-pour-mon-projet: "Quelle licence open source est appropriée pour mon projet?"
   que-faire-si-je-veux-changer-la-licence-de-mon-projet: "Que faire si je veux changer la licence de mon projet?"
-  mon-projet-necessite-t-il-un-accord-de-contribution-supplémentaire: "Mon projet nécessite t'il un accord de contribution supplémentaire?"
-  que-doit-savoir-lequipe-juridique-de-mon-entreprise: "Que doit savoir l'équipe juridique de mon entreprise?"
+  mon-projet-nécessite-t-il-un-accord-de-contribution-supplémentaire: "Mon projet nécessite t'il un accord de contribution supplémentaire?"
+  que-doit-savoir-léquipe-juridique-de-mon-entreprise: "Que doit savoir l'équipe juridique de mon entreprise?"
 order: 10
 image: /assets/images/cards/legal.png
 related:
