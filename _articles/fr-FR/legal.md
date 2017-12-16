@@ -6,7 +6,7 @@ class: légal
 toc:
   pourquoi-les-gens-se-soucient-ils-tellement-du-coté-légal-de-lopen-source: "Pourquoi les gens se soucient ils tellement du coté légal de l'open source?"
   les-projets-publics-github-sont-ils-open-source: "Les projets publics github sont-ils open source?"
-  donnez-moi-juste-la-TL-DR-sur-ce-dont-jai-besoin-pour-protéger-mon-projet: "Donnez moi juste la tl dr sur ce dont j'ai besoin pour protéger mon projet"
+  donnez-moi-juste-la-tl-dr-sur-ce-dont-jai-besoin-pour-protéger-mon-projet: "Donnez moi juste la tl dr sur ce dont j'ai besoin pour protéger mon projet"
   quelle-licence-open-source-est-appropriée-pour-mon-projet: "Quelle licence open source est appropriée pour mon projet?"
   que-faire-si-je-veux-changer-la-licence-de-mon-projet: "Que faire si je veux changer la licence de mon projet?"
   mon-projet-nécessite-t-il-un-accord-de-contribution-supplémentaire: "Mon projet nécessite t'il un accord de contribution supplémentaire?"
