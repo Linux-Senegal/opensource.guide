@@ -1,10 +1,10 @@
 ---
 locale: fr-FR
-title: Le côté légal de l'Open Source
+title: Le côté légal de l'open source
 description: Tout ce que vous avez déjà demandé sur le côté juridique de l'open source, et quelques choses que vous n'avez pas faites.
 class: légal
 toc:
-  pourquoi-les-gens-se-soucient-ils-tellement-du-côté-légal-de-lopen-source: "Pourquoi les gens se soucient ils tellement du côté légal de l'open source?"
+  pourquoi-les-gens-se-soucient-ils-tellement-du-coté-légal-de-lopen-source: "Pourquoi les gens se soucient ils tellement du coté légal de l'open source?"
   les-projets-publics-github-sont-ils-open-source: "Les projets publics github sont-ils open source?"
   donnez-moi-juste-la-TL-DR-sur-ce-dont-jai-besoin-pour-protéger-mon-projet: "Donnez moi juste la TL DR sur ce dont j'ai besoin pour protéger mon projet"
   quelle-licence-open-source-est-appropriée-pour-mon-projet: "Quelle licence open source est appropriée pour mon projet?"
