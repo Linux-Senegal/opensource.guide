@@ -1,10 +1,10 @@
 ---
 locale: en-US
-title: Getting Paid for Open Source Work
+title: Etre paye pour un travail en Open Source
 description: Sustain your work in open source by getting financial support for your time or your project.
-class: getting-paid
+class: Etre paye
 toc:
-  why-some-people-seek-financial-support: "Why some people seek financial support"
+  why-some-people-seek-financial-support: "Pour certaines personnes cherchent elles une aide financiere?"
   funding-your-own-time: "Funding your own time"
   finding-funding-for-your-project: "Finding funding for your project"
   building-a-case-for-financial-support: "Building a case for financial support"
@@ -15,7 +15,7 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## Pourquoi certaines personnes cherchent elles une aide financiere?
 
 Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
 
