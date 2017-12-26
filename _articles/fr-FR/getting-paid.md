@@ -1,8 +1,15 @@
 ---
+<<<<<<< HEAD
 locale: en-US
 title: Etre paye pour un travail en Open Source
 description: Sustain your work in open source by getting financial support for your time or your project.
 class: Etre paye
+=======
+locale: fr-FR
+title: Getting Paid for Open Source Work
+description: Sustain your work in open source by getting financial support for your time or your project.
+class: faire-payer
+>>>>>>> e0e610eb51871241ac6a45b85634000ef36456f4
 toc:
   why-some-people-seek-financial-support: "Pour certaines personnes cherchent elles une aide financiere?"
   funding-your-own-time: "Funding your own time"
@@ -11,8 +18,8 @@ toc:
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
-  - best-practices
-  - leadership
+  - meilleures-pratiques
+  - leadership-gouvernance
 ---
 
 ## Pourquoi certaines personnes cherchent elles une aide financiere?
