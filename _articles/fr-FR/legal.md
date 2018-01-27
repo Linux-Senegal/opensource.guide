@@ -1,6 +1,6 @@
 ---
 locale: fr-FR
-title: Le côté légal de l'open source
+title: Le côté légal de l'open source.
 description: Tout ce que vous avez déjà demandé sur le côté juridique de l'open source, et quelques choses que vous n'avez pas faites.
 class: légal
 toc:
