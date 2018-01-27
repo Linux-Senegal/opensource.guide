@@ -78,24 +78,27 @@ Meme si vous aimez ecrire du code, d'autres types de contributions sont une bonn
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+J'ai d'abord tenu a informer l'équipe de développement de Python (c'est-à-dire le python-dev) en la contactant par courrier électronique sur la liste de diffusion a la date du 17 juin 2002 pour l'acceptation de mon patch.
+J'ai rapidement rencontré le bogue open source et j'ai décidé de commencer a nettoyer le resume des emails pour le groupe.
+
+Ils m'ont donné une bonne excuse pour demander des clarifications sur le sujet, mais d'une façon plus critique j'ai remarqué que quelqu'un a indiqué quelque chose  nécessaire a cette réparation(fixation)
   <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
+— @brettcannon, ["Histoires de mainteneur"](https://github.com/open-source/stories/brettcannon)
   </p>
 </aside>
 
 ### Aimez-vous planifier des evenements?
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+* Organisez des ateliers ou des rencontres concernant le projet , [comme @fzamperin l'a fait pour NodeSchool](https://github.com/nodeschool/organizers/issues/406)
+* organisez la conference du projet (S'ils en ont une)
+* Aidez les membres de la communaute a trouver les conferences et a soumettre des propositions pour des interventions
 
 ### Aimez-vous faire du design?
 
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+* Restructurez des dispositions pour améliorer la facilité d'utilisation du projet
+* Conduire les recherches que font l'utilisateur en reorganisant et redefinissant la navigation ou le menu du projet [comme le suggere Drupal](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* Réunissez un guide de style pour aider le projet d'avoir une conception visuelle cohérente
+* Créez l'art pour des t-shirts ou un nouveau logo, [comme l'ont fait les contributeurs du projet hapi.js](https://github.com/hapijs/contrib/issues/68)
 
 ### Aimez-vous ecrire?
 
@@ -382,6 +385,7 @@ A project that is friendly and welcoming signals that they will be receptive to 
 
 ## Comment soumettre une contribution
 
+
 You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
 
 ### Communiquer effectivement
@@ -507,7 +511,7 @@ If you haven't gotten a response in over a week, it's fair to politely respond i
 
 If you make a polite bump and still nobody responds, it's possible that nobody will respond, ever. It's not a great feeling, but don't let that discourage you. It's happened to everyone! There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
 
-### 🚧 Les requetes de quelqu'un changes votre contribution.
+### 🚧 Les requetes d'une personne change votre contribution.
 
 It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
 
@@ -521,7 +525,7 @@ Your contribution may or may not be accepted in the end. Hopefully you didn't pu
 
 ### 🎉 Votre contribution a ete acceptee.
 
-Hooray! You've successfully made an open source contribution!
+Hooray! Vous avez fait une contribution Open Source avec succes!
 
 ## Vous l'avez fait!
 
