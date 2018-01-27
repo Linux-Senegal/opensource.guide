@@ -14,8 +14,8 @@ toc:
 order: 10
 image: /assets/images/cards/legal.png
 related:
-  - contribute
-  - leadership
+  - contribuer
+  - direction
 ---
 
 ## Comprendre les implications juridiques de l'open source
