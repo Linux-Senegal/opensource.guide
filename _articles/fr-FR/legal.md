@@ -13,7 +13,7 @@ toc:
   que-doit-savoir-léquipe-juridique-de-mon-entreprise: "Que doit savoir l'équipe juridique de mon entreprise?"
 order: 10
 image: /assets/images/cards/legal.png
-related:
+
 ---
 
 ## Comprendre les implications juridiques de l'open source
